@@ -12,7 +12,7 @@ echo "        __     _ _    __  _   _       _    _     _ _     _ _      _    __ 
 
 nope:
 echo "\033[31;1m\n\n MAAF UNTUK SEMENTARA SCRIP INI TIDAK DAPAT DI GUNAKAN \n\n"; 
-/*
+/
 $nope = trim(fgets(STDIN));
 $cek = cekno($nope);
 if ($cek == false)
